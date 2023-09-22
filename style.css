@@ -33,24 +33,7 @@ body {
     width: 50%;
 }
 
-.content_about > p {
-    /* width: 70%; */
-    padding-bottom: 20px;
-}
-
-.content_about > form {
-    padding-bottom: 20px;
-}
-
-.content_about > form > label {
-    padding-bottom: 20px;
-}
-
-.content_about > ul {
-    padding-bottom: 20px;
-}
-
-.content_about > ol {
+.content_about > p, form, label, ul, ol {
     padding-bottom: 20px;
 }
 
